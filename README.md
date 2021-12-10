@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
   </div>
-  <div style="height:300px;"> </div>
 </div>
+<br/><br/><br/>
 <!--
 **JaeYeong-Li/JaeYeong-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
